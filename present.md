@@ -1,10 +1,8 @@
 # python-konzepte-praesentation
 # Python Concepts – Beginner Presentation 
 
-This is a beginner-friendly overview of five fundamental Python programming concepts.  
-Each includes a summary of its purpose, main advantages, and limitations.  
-This presentation is **code-free**, designed for easy learning, teaching, or revising.
-
+This is a beginner-friendly "try to be bashar for one day" presentation 
+in case of mistakes keep them as your personal secret
 ---
 
 ## 🧭 Topics Overview:
