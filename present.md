@@ -2,7 +2,7 @@
 # Python Concepts – Beginner Presentation 
 
 This is a beginner-friendly "try to be bashar for one day" presentation 
-in case of mistakes keep them as your personal secret
+in case of mistakes keep them as your personal secret 🤓
 ---
 
 ## 🧭 Topics Overview:
