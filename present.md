@@ -1,5 +1,5 @@
 # python-konzepte-praesentation
-# 🐍 Python Concepts – Beginner Presentation (No Code)
+# Python Concepts – Beginner Presentation 
 
 This is a beginner-friendly overview of five fundamental Python programming concepts.  
 Each includes a summary of its purpose, main advantages, and limitations.  
@@ -17,7 +17,7 @@ This presentation is **code-free**, designed for easy learning, teaching, or rev
 
 ---
 
-## 1. 🔁 Bubble Sort
+## 1. Bubble Sort
 
 ** Purpose:**  
 Bubble sort is a simple sorting algorithm that compares and swaps adjacent values.  
@@ -50,7 +50,7 @@ They're **ordered**, **dynamic**, and support many operations.
 
 ---
 
-## 3. 🗺 Shortest Path (Dijkstra)
+## 3.  Shortest Path (Dijkstra)
 
 ** Purpose:**  
 Dijkstra's algorithm finds the **shortest path** from one node to all others in a graph — useful in **navigation**, **networks**, and **optimization problems**.
