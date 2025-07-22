@@ -5,7 +5,7 @@ This is a beginner-friendly "try to be bashar for one day" presentation
 in case of mistakes keep them as your personal secret 🤓
 ---
 
-## 🧭 Topics Overview:
+## Topics Overview:
 
 1. [ Bubble Sort](#1--bubble-sort)
 2. [Arrays (Lists)](#2--arrays-lists)
