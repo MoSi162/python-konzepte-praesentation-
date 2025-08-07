@@ -32,10 +32,14 @@ Python ist eine leicht verständliche, mächtige Programmiersprache.
 
 ## 2. 📚 Variablen & 📚 Datentypen
 
-# String     name = “Alex”        
-# Integer    age = 30            
-# Float      pi = 3.14           
-# Boolean    is_happy = True      
+# String     
+name = “Alex”        
+# Integer    
+age = 30            
+# Float      
+pi = 3.14           
+# Boolean    
+is_happy = True      
 
 
 
