@@ -1,28 +1,15 @@
-python_intro_presentation/
-│
-├── README.md              <- Deine Präsentation
-├── examples/
-│   ├── strings.py
-│   ├── data_types.py
-│   ├── variables.py
-│   ├── loops.py
-│   ├── functions.py
-│   ├── classes.py
-│   └── collections.py
 
 
 
 
-# 🐍 Python Kurz-Präsentation (10 Minuten)
+# Python Presentatiom
 
-Willkommen zu einer kompakten Einführung in Python! 👋
 
 ---
 
 ## 1. 📚 Intro to Python
 
-Python ist eine leicht verständliche, mächtige Programmiersprache.
-
+Python is an easy-to-understand, powerful programming language.
 
 
 
@@ -30,10 +17,10 @@ Python ist eine leicht verständliche, mächtige Programmiersprache.
 
 ---
 
-## 2. 📚 Variablen & 📚 Datentypen
+## 2. 📚 Variablen & 📚 Datatypes
 
 # String     
-name = “Alex”        
+name = “John”        
 # Integer    
 age = 30            
 # Float      
@@ -65,7 +52,7 @@ print(f”Hi {name}!”)
 
 ## 4. 📚 For-Loops
 
-for i in range(3): print(f”Durchlauf {i}”)
+for i in range(3): print(f”Durchlauf(forloop) {i}”)
 
 
 
@@ -75,9 +62,9 @@ for i in range(3): print(f”Durchlauf {i}”)
 
 ## 5. 📚 Funktionen
 
-def begruessung(person): 
+def greet(person): 
 return f”Hallo, {person}!”
-print(begruessung(“Maria”))
+print(greet(“Malika”))
 
 
 
@@ -92,12 +79,14 @@ print(begruessung(“Maria”))
 
 
 
-Liste (List)
-zahlen = print(zahlen)  # Ausgabe: 1
-Dictionary
-noten = {“Anna”: 1, “Ben”: 2} print(noten“Anna”)  # Ausgabe: 1
-Set
-fruechte = {“Apfel”, “Banane”, “Apfel”} print(fruechte)  # Nur einzigartige Elemente
+#Liste (List)
+zahlen = print(zahlen) 
+
+#Dictionary
+grades = {“malika”: 1, “Mo”: 2} print(grades“Malika”)  
+
+#Set
+fruechte = {“Apfel”, “Banane”, “Apfel”} print(fruechte)  
 
 
 
@@ -113,21 +102,21 @@ class Person: def init(self, name): self.name = name
 
 
 
-def begruessen(self):
+def greet(self):
     return f"Hi, ich bin {self.name}"
 
 
 
 
 
-p = Person(“Lena”) print(p.begruessen())
+p = Person(“malika”) print(p.greet())
 
 
 
 
 ---
 
-🎉 **Danke fürs Zuhören!**
+
 
 Fragen? 🚀
 
