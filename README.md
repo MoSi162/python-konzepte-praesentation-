@@ -17,7 +17,7 @@ Versatile: It is used in many fields such as web development, data analysis, art
 
 ---
 
-## 2. 📚 Variablen & 📚 Datatypes
+## 2. 📚 Variables & 📚 Datatypes
 
 # String     
 name = “John”        
@@ -173,7 +173,7 @@ fruechte = {“Apfel”, “Banane”, “Apfel”} print(fruechte)
 
 ---
 
-## 7. 📚 Klassen – Einführung in OOP
+## 7. 📚 Classes
 
 class Person: def init(self, name): self.name = name
 
@@ -195,7 +195,7 @@ p = Person(“malika”) print(p.greet())
 
 
 
-Fragen? 🚀
+
 
 
 
